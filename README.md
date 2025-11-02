@@ -27,18 +27,15 @@ After training, it predicts:
 pip install numpy
 python network.py
 
-
 Output shows the training progress and final accuracy.
 
-🎓 What I learned
+## 🎓 What I learned
 
 How neurons, activations, weights, and biases actually work
-
 How learning = minimizing error step by step
-
 How to build AI logic without using TensorFlow or PyTorch
 
-🏗️ Next step
+## 🏗️ Next step
 
 Next up: scaling this idea to recognize handwritten digits (multi-class problem)
 in the file digits_softmax.py.
