@@ -1,6 +1,6 @@
 # 🧠 My First AI Brain
 
-This is my first neural network — fully coded **from scratch** in Python using only NumPy.  
+This is my first neural network. Fully coded **from scratch** in Python using only NumPy.  
 No frameworks, no magic. I built this to really understand how an AI learns.
 
 ## ⚙️ What it does
@@ -20,8 +20,6 @@ After training, it predicts:
 3. **Loss** — Binary Cross-Entropy measures how wrong the model is.  
 4. **Backpropagation** — calculates how each weight affected the error.  
 5. **Gradient descent** — updates the weights to make fewer mistakes each round.
-
----
 
 ## 🔧 Run it yourself
 pip install numpy
