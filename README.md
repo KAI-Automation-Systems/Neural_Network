@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Neural Network banner" />
+</p>
+
 # 🧠 My First AI Brain
 
 This is my first neural network. Fully coded **from scratch** in Python using only NumPy.  
